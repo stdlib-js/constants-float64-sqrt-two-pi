@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import SQRT_TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-two-pi@esm/index.mjs';
+import SQRT_TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-two-pi@v0.2.3-esm/index.mjs';
 ```
 
 #### SQRT_TWO_PI
@@ -72,7 +72,7 @@ var bool = ( SQRT_TWO_PI === 2.5066282746310007 );
 <body>
 <script type="module">
 
-import SQRT_TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-two-pi@esm/index.mjs';
+import SQRT_TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-two-pi@v0.2.3-esm/index.mjs';
 
 console.log( SQRT_TWO_PI );
 // => 2.5066282746310007
